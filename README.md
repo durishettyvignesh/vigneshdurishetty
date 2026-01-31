@@ -63,7 +63,7 @@ OpenCL, ESP32, SQLite, React Native, basic backend APIs
 ## 🔗 Links
 
 - Portfolio: https://vigneshdurishetty.xo.je  
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/durishettyvignesh  
 
 ---
 
