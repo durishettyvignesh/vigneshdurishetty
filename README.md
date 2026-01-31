@@ -20,17 +20,10 @@ Currently focused on:
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,java,js,react,html,css,sql,opencv,git)
+![My Skills](https://skillicons.dev/icons?i=python,java,js,react,html,css,opencv,git)
 
 **Also worked with:**  
 OpenCL, ESP32, SQLite, React Native, basic backend APIs
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durishettyvignesh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durishettyvignesh&layout=compact&theme=tokyonight)
 
 ---
 
